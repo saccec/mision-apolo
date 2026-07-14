@@ -1,10 +1,10 @@
-
+~Tachadura~
 [logo](http://www.google.com)
 # Documento de Requerimientos del Sistema de reserva de equipos de laboratorio
 
 ## Historial de Versiones
 
-|Version| Fecha | Descripcion | Autor |
+|*Version*| Fecha | Descripcion | Autor |
 |:---|:---:|---:|:---|
 |1.0.0| 2026/07/13 | ***Creacion*** de historias de usuario iniciales| 
 Luis|
