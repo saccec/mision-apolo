@@ -15,10 +15,10 @@ Luis|
 
 ### 1. Historia de Usuario
 
-* **ID:** 0011
-* **Titulo:** Reservacion de computador
-* **Prioridad:** Alta
-* **Estimacion:** 14 horas
++ **ID:** 0011
++ **Titulo:** Reservacion de computador
++ **Prioridad:** Alta
++ **Estimacion:** 14 horas
 
 > **Como** estudiante
 > **Quiero** resevar un computador del aula de servidores Linux
