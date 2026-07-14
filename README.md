@@ -127,9 +127,26 @@ Luis Salvador |
 
 * [ ] **Listo**
 
-``` <html>
+``` <!DOCTYPE html>
+<html>
+    <head>
+<title>
+
+</title>
+<style>
 
 
+</style>
+<script></script>
 
+    </head>
+<body>
+    <header></header>
+    <nav></nav>
+    <section></section>
+    Agregando otro archivo....
+</body>
+
+</html>
 
 
