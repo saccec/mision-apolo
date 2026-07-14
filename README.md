@@ -7,7 +7,7 @@
 |Version| Fecha | Descripcion | Autor |
 |:---|:---:|---:|:---|
 |1.0.0| 2026/07/13 | ***Creacion*** de historias de usuario iniciales| 
-Luis Salvador |
+[Luis Salvador] |
 
 ---
 ![Imagen](https://cedia.edu.ec/images/zoom/ISO/videoconferencing.png)
