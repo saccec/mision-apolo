@@ -127,7 +127,8 @@ Luis Salvador |
 
 * [ ] **Listo**
 
-``` <!DOCTYPE html>
+```html
+<!DOCTYPE html>
 <html>
     <head>
 <title>
