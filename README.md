@@ -1,3 +1,4 @@
+:---:
 [logo](http://www.google.com)
 # Documento de Requerimientos del Sistema de reserva de equipos de laboratorio
 
