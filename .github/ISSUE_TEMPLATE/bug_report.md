@@ -4,6 +4,7 @@ description: "Describe un comportamiento inesperado, un fallo en el entorno o un
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees: ""
+
 ---
 
 ## Descripción del Problema
