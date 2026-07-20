@@ -1,6 +1,6 @@
 ---
 name: " Reporte de Error Técnico"
-description: "Describe un comportamiento inesperado, un fallo en el entorno o un log de error."
+about: "Describe un comportamiento inesperado, un fallo en el entorno o un log de error."
 title: "[Bug]: "
 labels: ["bug", "triage"]
 assignees: ""
