@@ -1,10 +1,10 @@
-
 ---
 name: "Nueva Tarea o Mejora Técnica"
-description: "Propón un refactor, una optimización de código o el desarrollo de una nueva funcionalidad."
+about: "Propón un refactor, una optimización de código o el desarrollo de una nueva funcionalidad."
 title: "[Feature]: "
 labels: ["enhancement"]
 assignees: ""
+
 ---
 
 ## Descripción de la Tarea
